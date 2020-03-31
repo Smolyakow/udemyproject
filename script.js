@@ -17,7 +17,7 @@
 console.log('mother' + 'hello');
 
 let isChecked = true,
-    isClose = !false;
+    isClose = false;
 
 console.log(isChecked && isClose);
 
